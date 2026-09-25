@@ -1,3 +1,16 @@
+---
+tags:
+  - recipes
+  - recipes/food
+  - recipes/bread
+  - inputs/wheat
+  - inputs/wheat_seeds
+  - inputs/wheat_flour
+  - inputs/wheat_dough
+  - outputs/bread
+---
+
+
 ### Inputs
 - 1x wheat
 

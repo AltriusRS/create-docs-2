@@ -1,3 +1,14 @@
+---
+tags:
+  - recipes
+  - recipes/slime_ball
+  - inputs/wheat
+  - inputs/wheat_seeds
+  - inputs/wheat_flour
+  - inputs/wheat_dough
+  - outputs/slime_ball
+---
+
 ### Inputs
 - 1x wheat
 
