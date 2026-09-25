@@ -1,3 +1,21 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+@media (min-width: 1200px) {
+  div#quartz-root.page div#quartz-body {
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0 !important;
+  }
+}
+
+/* Keep each individual tag intact */
+#quartz-body .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+#quartz-body .note-properties-tags .tag-link {
+  white-space: nowrap;
+  display: inline-block;
+}

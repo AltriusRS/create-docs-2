@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Create Factory
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: https://altriusrs.github.io/create-docs-2/
+  analytics: null
+  locale: en-GB
+  baseUrl: https://cdoc.totallyfake.dev/
   ignorePatterns:
     - private
     - templates
@@ -113,7 +112,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: acovia
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
