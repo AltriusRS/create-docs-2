@@ -9,8 +9,6 @@
 - 1-3 Bread
 
 ```mermaid
-%%{ init: { 'flowchart': { 'curve': 'stepBefore' } } }%%
-
 flowchart TD
     Wheat[Wheat]
     Crush(Crushing Wheels)
