@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: altriusrs.github.io
+  baseUrl: https://altriusrs.github.io/create-docs-2/
   ignorePatterns:
     - private
     - templates
