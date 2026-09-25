@@ -20,6 +20,11 @@ tags:
 - 1-3 Slime Balls
 
 ```mermaid
+---
+config:
+  flowchart:
+    curve: stepBefore
+---
 flowchart TD
     Wheat[Wheat]
     Crush(Crushing Wheels)
