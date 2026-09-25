@@ -19,7 +19,7 @@ tags:
 - Bulk Washing: Water
 
 ### Outputs
-- 1-3 Bread
+- 1-3x Bread
 
 ```mermaid
 ---

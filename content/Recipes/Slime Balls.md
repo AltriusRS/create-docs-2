@@ -17,7 +17,7 @@ tags:
 - Bulk Washing: Water
 
 ### Outputs
-- 1-3 Slime Balls
+- 1-3x Slime Balls
 
 ```mermaid
 ---
