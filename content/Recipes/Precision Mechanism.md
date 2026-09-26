@@ -14,7 +14,7 @@ tags:
 - 1x Gold Ingot
 - 5x [[Small Cogwheel]]
 - 5x [[Large Cogwheel]]
-- 5x I[[ron Nugget]]
+- 5x [[Iron Nugget]]
 
 ### Requires
 - Deployer
