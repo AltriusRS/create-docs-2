@@ -22,11 +22,10 @@ tags:
 ```mermaid
 flowchart TD
 	Casing[Brass Casing]
+	TrainCasing[Train Casing]
 	Saw(Mechanical Saw)
 	Deployer(Deployer: Sturdy Sheet)
 	
-	Log --> | 1x | Saw
-	Saw --> | 1x | StrippedLog
-	StrippedLog --> | 1x | Deployer
-	Deployer --> | 1x | Casing
+	Casing --> | 1x | Deployer
+	Deployer --> | 1x | TrainCasing
 ```

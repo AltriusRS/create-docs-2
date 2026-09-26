@@ -24,9 +24,9 @@ tags:
 flowchart TD
 	Log[Log]
 	StrippedLog[Stripped Log]
-	Casing[Andesite Casing]
+	Casing[Brass Casing]
 	Saw(Mechanical Saw)
-	Deployer(Deployer: Andesite Alloy)
+	Deployer(Deployer: Brass Ingot)
 	
 	Log --> | 1x | Saw
 	Saw --> | 1x | StrippedLog
