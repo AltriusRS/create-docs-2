@@ -52,3 +52,17 @@ flowchart TD
 	
 	MC-ET --> | 1x | ET
 ```
+
+### Recipes
+
+#### Rose Quartz
+
+| [[Nether Quartz]] | Redstone Dust | Redstone Dust |
+| ----------------- | ------------- | ------------- |
+| Redstone Dust     | Redstone Dust | Redstone Dust |
+| Redstone Dust     | Redstone Dust | Redstone Dust |
+
+#### Electron Tube
+| Polished Rose Quartz |
+| -------------------- |
+| Iron Plate           |
