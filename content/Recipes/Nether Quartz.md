@@ -19,7 +19,17 @@ tags:
 
 ```mermaid
 flowchart TD
-	Sand
+	Sand[Sand]
+	Soul[Soul Sand]
+	Quartz[Nether Quartz]
+	Nugg[Gold Nugget]
 	Haunt(Bulk Haunting)
 	Wash(Bulk Washing)
+	
+	Sand --> | 1x | Haunt
+	Haunt --> | 1x | Soul
+	Soul --> | 1x | Wash
+	Wash --> |12% chance: +4|Quartz
+	Wash --> |2% chance: +1|Nugg
 ```
+
