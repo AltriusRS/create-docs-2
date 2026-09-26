@@ -64,7 +64,3 @@ Use the links above to browse recipes, or use Quartz's search to find a particul
 This wiki is a living reference for our shared Minecraft world.
 
 Recipes are added and updated as we build new production lines, acquire new machines, and discover new ways of processing materials.
-
-
-This is some normal text
-# but this te
