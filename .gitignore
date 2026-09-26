@@ -11,3 +11,5 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+/.obsidian/workspace.json
