@@ -2,27 +2,27 @@
 tags:
   - recipes
   - recipes/blocks
-  - inputs/shaft
+  - inputs/small_cogwheel
   - inputs/wooden_planks
-  - outputs/small_cogwheel
+  - outputs/large_cogwheel
 ---
 ### Inputs
-- 1x Shaft
+- 1x [[Small Cogwheel]]
 - 1x Wooden Planks
 
 ### Requires
 - Deployer
 
 ### Outputs
-- 1x Small Cogwheel
+- 1x Large Cogwheel
 
 ```mermaid
 flowchart TD
-	Shaft[Shaft]
+	LargeCog[Large Cogwheel]
 	SmallCog[Small Cogwheel]
 	Deployer(Deployer: Wooden Planks)
 	
-	Shaft --> | 1x | Deployer
-	Deployer --> | 1x | SmallCog
+	SmallCog --> | 1x | Deployer
+	Deployer --> | 1x | LargeCog
 
 ```
