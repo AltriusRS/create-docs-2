@@ -20,6 +20,8 @@ tags:
 
 - 2x Diamond Block
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
     DiamondOre[Diamond Ore]

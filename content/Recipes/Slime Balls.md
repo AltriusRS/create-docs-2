@@ -22,6 +22,8 @@ tags:
 
 - 1-3x Slime Balls
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
     Wheat[Wheat]

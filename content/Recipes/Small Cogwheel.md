@@ -16,6 +16,8 @@ tags:
 ### Outputs
 - 1x Small Cogwheel
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
 	Shaft[Shaft]

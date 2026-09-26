@@ -22,6 +22,8 @@ tags:
 
 - 4x Brass Ingot
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
     ZincIngot[Zinc Ingot]

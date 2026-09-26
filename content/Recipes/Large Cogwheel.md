@@ -16,6 +16,8 @@ tags:
 ### Outputs
 - 1x Large Cogwheel
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
 	LargeCog[Large Cogwheel]

@@ -24,6 +24,8 @@ tags:
 - 80% chance - 1x Precision Mechanism
 - 20% chance - "random salvage"
 
+### Workflow Diagram
+
 
 ```mermaid
 flowchart TD

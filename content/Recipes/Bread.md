@@ -23,6 +23,8 @@ tags:
 
 - 1-3x Bread
 
+### Workflow Diagram
+
 ```mermaid
 flowchart TD
     Wheat[Wheat]
