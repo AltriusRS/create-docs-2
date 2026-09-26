@@ -3,13 +3,13 @@ tags:
   - recipes
   - recipes/casings
   - inputs/logs
-  - inputs/andesite_alloy
-  - outputs/andesite_casing
+  - inputs/copper_ingot
+  - outputs/copper_casing
 ---
 
 ### Inputs
 - 1x Log
-- 1x Andesite Alloy
+- 1x Copper Ingot
 
 ### Requires
 - Deployer
@@ -17,16 +17,16 @@ tags:
 
 
 ### Outputs
-- 1x Andesite Casing
+- 1x Copper Casing
 
 
 ```mermaid
 flowchart TD
 	Log[Log]
 	StrippedLog[Stripped Log]
-	Casing[Andesite Casing]
+	Casing[Copper Casing]
 	Saw(Mechanical Saw)
-	Deployer(Deployer: Andesite Alloy)
+	Deployer(Deployer: Copper Ingot)
 	
 	Log --> | 1x | Saw
 	Saw --> | 1x | StrippedLog

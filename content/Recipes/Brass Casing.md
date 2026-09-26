@@ -3,13 +3,13 @@ tags:
   - recipes
   - recipes/casings
   - inputs/logs
-  - inputs/andesite_alloy
-  - outputs/andesite_casing
+  - inputs/brass_ingot
+  - outputs/brass_casing
 ---
 
 ### Inputs
 - 1x Log
-- 1x Andesite Alloy
+- 1x [[Brass Ingot]]
 
 ### Requires
 - Deployer
@@ -17,7 +17,7 @@ tags:
 
 
 ### Outputs
-- 1x Andesite Casing
+- 1x Brass Casing
 
 
 ```mermaid
