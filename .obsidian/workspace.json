@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Small Cogwheel"
             }
+          },
+          {
+            "id": "1701f480ad9409aa",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +174,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Recipes/Small Cogwheel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,11 +213,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9401406ab37f6ff5",
+  "active": "1701f480ad9409aa",
   "lastOpenFiles": [
-    "content/Recipes/Precision Mechanism.md",
-    "content/Recipes/Slime Balls.md",
     "content/Recipes/Small Cogwheel.md",
+    "content/Recipes/Slime Balls.md",
+    "conflict-files-obsidian-git.md",
+    "content/Recipes/Precision Mechanism.md",
     "tsconfig.json",
     "quartz/worker.ts",
     "quartz/util/trace.ts",
