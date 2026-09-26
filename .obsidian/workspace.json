@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1255fdcb598dfe7",
+        "id": "60eb83e577f7833e",
         "type": "tabs",
         "children": [
           {
-            "id": "c5d2bf49aa846cab",
+            "id": "9401406ab37f6ff5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "content/Recipes/Small Cogwheel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Small Cogwheel"
             }
           }
         ]
@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/Recipes/Small Cogwheel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -178,11 +179,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,10 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5d2bf49aa846cab",
+  "active": "9401406ab37f6ff5",
   "lastOpenFiles": [
-    "content/Recipes/Small Cogwheel.md",
     "content/Recipes/Precision Mechanism.md",
+    "content/Recipes/Slime Balls.md",
+    "content/Recipes/Small Cogwheel.md",
     "tsconfig.json",
     "quartz/worker.ts",
     "quartz/util/trace.ts",
@@ -215,7 +218,6 @@
     "quartz/static/og-image.png",
     "quartz/static/icon.png",
     "content/Recipes/index.md",
-    "content/Recipes/Slime Balls.md",
     "content/Recipes/Diamond Block.md",
     "content/Recipes/Bread.md",
     "content/Recipes/Brass Ingot.md",
