@@ -16,6 +16,9 @@ tags:
 - 12% chance: 4x Nether Quartz 
 - 2% chance: 1x Gold Nugget
 
+### Workflow Diagram
+
+
 
 ```mermaid
 flowchart TD
