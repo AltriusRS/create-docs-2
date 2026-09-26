@@ -19,7 +19,11 @@ tags:
 ```mermaid
 flowchart TD
 	Shaft[Shaft]
-	Planks[Wooden Planks]
-	Deployer[Deployer: Wooden Planks]
+	SmallCog[Small Cogwheel]
+	Deployer(Deployer: Wooden Planks)
+	
+	Shaft --> | 1x | Deployer
+	Deployer --> | 1x | SmallCog
+
 ```
 
